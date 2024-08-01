@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @S3RG101
-- 👀 I’m interested in origami, math and programming
-- 🌱 I’m currently learning Tensorflow and Flutter
-- 💞️ I’m looking to collaborate on applications or machine learning projects
-- 📫 How to reach me: sergiolopezgarcia275@gmail.com
+
+   _____ ____  _____   _____ __  ___  __ 
+  / ____|___ \|  __ \ / ____/_ |/ _ \/_ |
+ | (___   __) | |__) | |  __ | | | | || |
+  \___ \ |__ <|  _  /| | |_ || | | | || |
+  ____) |___) | | \ \| |__| || | |_| || |
+ |_____/|____/|_|  \_\\_____||_|\___/ |_|
+                                        
 
 <!---
 S3RG101/S3RG101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
